@@ -14,8 +14,8 @@ client.on('ready', () => {
 
 client.on('message', msg => {
     if (msg.content === 'ping') {
-        msg.reply('Pong!')
+        msg.reply('I am deployed!');
     }
 });
 
-client.login(process.env.BOT_TOKEN)
+client.login(process.env.BOT_TOKEN);
