@@ -1,4 +1,5 @@
-# MitchBot for adding :8ball::zap: to your Discord server
+# MitchBot 
+###### Add :8ball::zap: to your Discord server
 
 ## Acknowledgements
 
